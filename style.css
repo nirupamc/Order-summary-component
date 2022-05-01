@@ -117,4 +117,10 @@ button:last-of-type:hover {
     color: #203150;
     font-weight: 900;
 }
-
+.attribution {
+    font-size: 11px; text-align: center;
+    position: absolute;
+ bottom: 0%;
+ left: 50%;
+ transform: translate(-50%, -50%) 
+}
